@@ -27,12 +27,28 @@
       description:
         - Description 1.
         - Description 2.
+    - title: Bsc in Physics
+      institution: Università di Milano-Bicocca, Milan, Italy
+      year: 2011
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
+    - title: High school teacher
+      institution: Liceo Classico Giosuè Carducci, Milan, Italy
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Lead data scientist
-      institution: Vaiorus companies
+      institution: Various companies
       year: 2021 - 2023
       description:
         - Description 1.
@@ -42,7 +58,7 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Data scientist
-      institution: Vaiorus companies
+      institution: Various companies
       year: 2017 - 2021
       description:
         - Description 1.
