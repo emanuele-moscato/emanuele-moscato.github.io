@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - emanuele-moscato
 
 github_repos:
+  - emanuele-moscato/bayesian-explorations
   - alshedivat/al-folio
-  - twbs/bootstrap
   - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
