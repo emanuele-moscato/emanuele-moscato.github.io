@@ -176,6 +176,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  # This sets che site.courses variable, sourcing the data from the _courses/
+  # directory the same way projects are sources from _projects/
+  courses:
+    output: true
+    permalink: /courses/:path/
 
 announcements:
   enabled: true

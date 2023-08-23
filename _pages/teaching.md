@@ -5,8 +5,32 @@ title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
+horizontal: false # This sets the page.horizontal boolean variable.
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<!--
+  Note (Ema): the following block takes the same structure as for the projects section
+              (indeed, the _includes/projects.html is used) but sources the data from
+              the _courses directory.
+-->
+<!-- pages/teaching.md -->
+<div class="teaching">
+<!-- Display projects without categories -->
+{%- assign sorted_courses = site.courses | sort: "importance" -%}
+<!-- Generate cards for each project -->
+{% if page.horizontal -%}
+<div class="container">
+  <div class="row row-cols-2">
+  {%- for project in sorted_courses -%}
+    {% include teaching_horizontal.html %}
+  {%- endfor %}
+  </div>
+</div>
+{%- else -%}
+<div class="grid">
+  {%- for project in sorted_courses -%}
+    {% include teaching.html %}
+  {%- endfor %}
+</div>
+{%- endif -%}
+</div>
