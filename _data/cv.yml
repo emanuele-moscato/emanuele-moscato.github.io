@@ -15,24 +15,28 @@
       institution: Queen Mary, University of London, London, UK
       year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Explored black hole physics problems (the information paradox) using
+          holography (AdS/CFT correspondence), a technique from string theory
+          that allows to map a problem in gravitational physics onto a problem
+          in particle physics in one fewer dimension.
+        - Analytical work using real, complex and functional analysis, differential
+          geometry, algebra and topology.
+        - Work was carried out as part of an international collaboration and
+          culminated in three published peer-reviewed papers.
     - title: Msc in Physics
       institution: Università di Milano-Bicocca, Milan, Italy
       year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Specialized in theoretical physics.
+        - Attended courses in group theory, quantum field theory, statistical mechanics,
+          general relativity, numerical methods in statistical mechanics (molecular
+          dynamics, Monte Carlo Markov Chains).
+        - Finished with mark 110/110 with honours.
     - title: Bsc in Physics
       institution: Università di Milano-Bicocca, Milan, Italy
       year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Finished with mark 110/110 with honours.
 
 - title: Experience
   type: time_table
@@ -41,32 +45,26 @@
       institution: Liceo Classico Giosuè Carducci, Milan, Italy
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Teacher of maths and physics in an italian public high school.
+        - Taught to around 150 students with age ranging from 14 to 19.
     - title: Lead data scientist
       institution: Various companies
       year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Responsible for managing teams of data scientists and product analysts,
+          including consultancy work.
+        - On top of the technical work I gained experience in managing people and
+          negotiating with stakeholders both internally (product and project managers,
+          other teams) and externally (clients).
     - title: Data scientist
-      institution: Various companies
+      institution: Various companies (UK and Italy)
       year: 2017 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Technical work in data science, from building reports based on data to
+          the development and deployment of machine learning algorithms, with
+          a specialization in optimization and operational research (logistics).
+        - Worked on the analytics side of things as well, defining and tracking
+          business and technical KPIs and discussing roadmaps with product managers.
 
 - title: Open Source Projects
   type: time_table
@@ -87,14 +85,16 @@
   contents:
     - title: Machine learning.
       items:
-        - Description 1.
-        - Description 2.
+        - Deep learning, including Bayesian deep learning.
+        - Natural language processing.
     - title: Bayesian methods.
       items:
-        - Description 1.
-        - Description 2.
+        - Applications to machine learning.
+        - Estimation with Monte Carlo methods.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Martial arts (I'm an instructor! Have a look <a href="https://www.instagram.com/asd_aik/">here</a>).
+    - Guitar playing (exclusively electric!).
+    - Sailing.

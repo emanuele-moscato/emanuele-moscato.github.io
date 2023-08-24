@@ -2,7 +2,7 @@
 layout: page
 title: Statistical Physics
 description: A course in statistical mechanics
-img: assets/img/12.jpg
+img: # assets/img/12.jpg
 importance: 1
 category: work
 related_publications:

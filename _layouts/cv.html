@@ -10,6 +10,18 @@ layout: default
       {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
+  <!-- Social -->
+  {%- if page.show_linkedin %}
+    <div class="social" style="text-align:left">
+      <div class="contact-icons">
+        {%- if site.linkedin_username -%}
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        {% endif %}
+      </div>
+
+    </div>
+  {%- endif %}
+
   <h4>Table of contents</h4>
   <ul class="timeline">
   {% for entry in site.data.cv %}

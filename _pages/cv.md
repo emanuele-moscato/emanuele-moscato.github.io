@@ -7,5 +7,6 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: # example_pdf.pdf # This file is looked for in the assets/pdf/ directory, un-comment to include the button.
-description: My education, career and research efforts, between Italy and the UK.
+description: My education, career and research efforts, between Italy and the UK. More details on LinkedIn!
+show_linkedin: true
 ---
