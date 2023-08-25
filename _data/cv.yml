@@ -89,6 +89,7 @@
         - Natural language processing.
     - title: Bayesian methods.
       items:
+        - Probabilistic programming languages.
         - Applications to machine learning.
         - Estimation with Monte Carlo methods.
 

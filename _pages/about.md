@@ -18,16 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Emanuele, welcome! Here you can find some information on who I am and what I do - in case you want to contact me, use one of the buttons below.
+Emanuele Moscato is a data scientist, teacher and researcher with international experience based in Milan, Italy.
 
-I'm a theoretical physicist by background: I brought my childhood passion for those "<a href="https://en.wikipedia.org/wiki/Black_hole">big strange things in the sky</a>" well into adulthood, as I ended up doing a PhD in the field of string theory (if you're curious about my work, have a look at the <a href="/publications">publications</a> section!) in London, UK.
+After graduating in Physics at the University of Milano-Bicocca (Milan, Italy), he went on to get a PhD in Theoretical Physics at Queen Mary, University of London (London, UK), where he took part in an international collaboration applying String Theory to tackle some of the puzzles of black hole physics (see his publications <a href="/publications/">here</a>).
 
-Then I discovered that maths can be used to solve many more problems than theoretical puzzles in strange spacetimes, problems that are more pressing for us humans and that can be tackled using data. The startup environment in London was kind enough to welcome me in various companies, where I learned the tricks of the trade to apply machine learning to real-world problems.
+After discovering Data Science and Machine Learning, Emanuele worked as a Data Scientist in companies in the UK and then in Italy, applying scientific reasoning to solve business problems.
 
-I came back to Italy to work as a data scientist but soon after I had to face a new challenge as I became the manager of a wonderful team working hard on the optimization of logistics. A hard problem, believe me.
+A teacher at heart, throughout his career he taught courses both in academia (Physics) and in companies (Data Science), experimenting also with teaching Maths and Physics for a term in an italian high school.
 
-Some companies and some teams later I realized I wanted to try something different and have a more direct social impact: I became a teacher in the italian public education system. Those have been the strangest and probably most intense five months of my life: I tried to teach maths and physics to a crowd of 150 teenagers ranging from 14 to 19. Not sure I succeeded, but I tried for sure!
+Passionate about research, Emanuele has always been keen of learning new techniques, understanding the underlying theory and expanding what's possible.
 
-I'm a researcher and a teacher at heart: I like to investigate problems, use maths, write code (Python please!). I see every project as an occasion to grow and "teach myself how to..." - and then teach others. Let's see where this leads me next.
 
-On top of this, I'm a martial arts instructor, a keen guitar player and the proud owner of a super fast dinghy boat I have little to no idea how to use!
+Still curious? Check out the <a href="/full_bio/">full bio</a> section!

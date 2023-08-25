@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Some of the courses I taught, both in academia and in companies.
+description: Some of the courses I taught, either in academia or in companies.
 nav: true
 nav_order: 5
 horizontal: false # This sets the page.horizontal boolean variable.
