@@ -28,6 +28,6 @@ I came back to Italy to work as a data scientist but soon after I had to face a 
 
 Some companies and some teams later I realized I wanted to try something different and have a more direct social impact: I became a teacher in the italian public education system. Those have been the strangest and probably most intense five months of my life: I tried to teach maths and physics to a crowd of 150 teenagers ranging from 14 to 19. Not sure I succeeded, but I tried for sure!
 
-I'm a researcher and a teacher at heart: I like to investigate problems, use maths, write code (Python please!). I see every project as an occasion to grow and "teach myself how to..." - and then teach others. Let's see where this leads me next.
+I'm a researcher and a teacher at heart: I like to investigate problems, use maths, write code (Python please!). I see every project as an occasion to grow and "teach myself how to..." - and then teach others. This naturally led me back to academia: after some months in the Physics department at the University of Milano-Bicocca I'm now a postdoctoral researcher at Bocconi University, working on the application of machine learning to language.
 
 On top of this, I'm a martial arts instructor, a keen guitar player and the proud owner of a super fast dinghy boat I have little to no idea how to use!

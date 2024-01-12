@@ -4,5 +4,7 @@ github_users:
 github_repos:
   - emanuele-moscato/bayesian-explorations
   - emanuele-moscato/nlp-explorations
+  - emanuele-moscato/nn-utilities
+  - emanuele-moscato/gan-explorations
   - alshedivat/al-folio
   - jekyll/jekyll

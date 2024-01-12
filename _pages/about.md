@@ -26,7 +26,7 @@ After discovering Data Science and Machine Learning, Emanuele worked as a Data S
 
 A teacher at heart, throughout his career he taught courses both in academia (Physics) and in companies (Data Science), experimenting also with teaching Maths and Physics for a term in an italian high school.
 
-Passionate about research, Emanuele has always been keen of learning new techniques, understanding the underlying theory and expanding what's possible.
+Passionate about research, Emanuele has always been keen of learning new techniques, understanding the underlying theory and expanding what's possible. He's currently a postdoctoral researcher in Natural Language Processing at Bocconi University.
 
 
 Still curious? Check out the <a href="/full_bio/">full bio</a> section!

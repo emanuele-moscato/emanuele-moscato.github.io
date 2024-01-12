@@ -41,6 +41,21 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral researcher
+      institution: Bocconi University, Milan, Italy
+      year: 2024
+      description:
+        - Researcher within the
+          <a href="https://milanlproc.github.io/#about">MilaNLP</a>
+          group working on Natural Language Processing.
+
+    - title: Postdoctoral researcher
+      institution: University of Milan-Bicocca, Milan, Italy
+      year: 2023
+      description:
+        - Member of the <a href="https://indico.cern.ch/event/1312529/">EXPANSION</a>
+          collaboration to apply data science to problems in particle physics
+          (accelerators physiscs) and biomedical engineering (medical imaging).
     - title: High school teacher
       institution: Liceo Classico Giosuè Carducci, Milan, Italy
       year: 2023
